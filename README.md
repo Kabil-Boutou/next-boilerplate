@@ -1,10 +1,10 @@
 # Project Title
 
-One Paragraph of project description goes here
+Only the getting started section of README is talkig about this actual project the rest of it is just a template for later use...
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This boilerplate contains all the necessary to start a NextJs project and more, as you can see it has all the configs files ( eslint, prettier, docker-compose, now...) so you can change it easily and have the same setup as all your teammates. I also included a some useful dependencies such as bundle-analyzer to analyze bundle size on the client and server side simply by running ( npm run analyze or yarn analyze ), husky for pre-commits and such, commitizen/cz-cli to unify the commits messages (when you to commit you don't need use git commit instead of commit -m '...' and follow the instruction shown in terminal)
 
 ### Prerequisites
 
